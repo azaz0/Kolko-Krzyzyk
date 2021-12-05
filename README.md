@@ -1,5 +1,5 @@
-# Kolko-Krzyzyk
+# Kolko&Krzyzyk
 
 ### Alpha Game version
 ### Only for studies purpose
-### In dev statment
+#### In dev statment
